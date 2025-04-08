@@ -1,4 +1,4 @@
-Official repositoryof our CVPR 2025 paper ”Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection“
+Official repository of our CVPR 2025 paper ”Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection“
 
 ## Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection [[PDF](https://cvpr.thecvf.com/virtual/2025/poster/32647)]
 
