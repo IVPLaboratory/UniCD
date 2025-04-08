@@ -45,7 +45,7 @@ If you find our work useful in your research, please consider citing our paper u
 }
 ```
 
-In additoin to above paper, please consider citing the following references, too, thank you:
+In additoin to the above paper, please also consider citing the following references. thank you!
 ```
 @article{2024TGRS_SCINet,
     author    = {Houzhang Fang; Lan Ding; Xiaolin Wang; Yi Chang; Luxin Yan; Li Liu; Jinrui Fang},
