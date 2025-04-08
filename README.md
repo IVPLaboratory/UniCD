@@ -1,8 +1,6 @@
-# UniCD
 Official repositoryof our CVPR 2025 paper ”Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection“
 
-
-# Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection
+## Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection [[PDF](https://cvpr.thecvf.com/virtual/2025/poster/32647)]
 
 
 Houzhang Fang<sup>1</sup>, Xiaolin Wang<sup>1</sup>, Zengyang Li<sup>1</sup>, Lu Wang<sup>1</sup>, Qingshan Li<sup>1</sup>, Yi Chang<sup>2</sup>, Luxin Yan<sup>2</sup>
