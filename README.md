@@ -34,7 +34,7 @@ Key Features:
 - **Real-time Processing**: Supports real-time online demonstration for quick validation.
 
 ## Citation
-If you find our work useful in your research, please consider citing our paper using the following BibTeX entry:
+If you find our work useful in your research, please consider citing our paper:
 ```
 @inproceedings{2025CVPR_UniCD,
     title     = {Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared {UAV} Target Detection},
