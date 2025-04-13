@@ -48,8 +48,8 @@ If you find our work useful for your research, please consider citing our paper:
 In additoin to the above paper, please also consider citing the following references. Thank you!
 ```
 @article{2024TGRS_SCINet,
-  author    = {Houzhang Fang; Lan Ding; Xiaolin Wang; Yi Chang; Luxin Yan; Li Liu; Jinrui Fang},
   title     = {{SCINet}: Spatial and Contrast Interactive Super-Resolution Assisted Infrared {UAV} Target Detection},
+  author    = {Houzhang Fang; Lan Ding; Xiaolin Wang; Yi Chang; Luxin Yan; Li Liu; Jinrui Fang},
   journal   = {IEEE Transactions on Geoscience and Remote Sensing},
   volume    = {62},
   year      = {2024},
