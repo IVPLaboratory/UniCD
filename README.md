@@ -21,11 +21,15 @@ The dataset used in our paper can be downloaded via the following link:
 
 - Download Dataset Here -[Baidu Netdisk](<https://pan.baidu.com/s/1cgzAo8ZLIqplCV5tCIOldw?pwd=ujdm >) ,  [Google Drive(TODO)](<>)
 
-## Online NUC Demo
+## NUC Software
 
-We have developed an online demonstration website, allowing users to upload various non-uniform images for real-time processing. Our method does not require retraining and demonstrates excellent universal applicability across diverse scenarios.
+We have developed an correction software, allowing users to upload various non-uniform images for real-time processing. Our method does not require retraining and demonstrates excellent universal applicability across diverse scenarios.
+Our correction software currently only provides processing results based on the non-uniformity correction algorithm from the CVPR paper and can run on both Linux and Windows systems.
+Usage steps:
+Step 1. Click the “Select Images” button to load images (multiple images can be loaded). You can also select an entire image folder for batch processing.
+Step 2. Choose the output folder where the processed results will be saved. If this step is skipped, the results will be saved by default in the folder where the images were selected in step 1.
+Step 3. Click the “Process Images” button. The software will save both the corrected images and the estimated bias field images.
 
-- [Access the Online Demo Here](<>)[TODO]
 
 Key Features:
 
