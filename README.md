@@ -15,7 +15,7 @@ Infrared unmanned aerial vehicle (UAV) images captured using thermal detectors a
 
 ## Architecture
 <p align="center">
-  <img src="figs/LMAFormer_fig_1.png" width="auto" alt="accessibility text">
+  <img src="figs/Overview_of_UniCD.png" width="auto" alt="accessibility text">
 </p>
 Overall architecture of the proposed UniCD.
 
