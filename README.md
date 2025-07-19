@@ -52,6 +52,7 @@ If you find our work useful for your research, please consider citing our paper.
     author    = {Houzhang Fang and Xiaolin Wang and Zengyang Li and Lu Wang and Qingshan Li and Yi Chang and Luxin Yan},
     booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     year      = {2025},
+    month     =  {June},
     pages     = {11898-11907},
 }
 ```
