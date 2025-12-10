@@ -6,6 +6,7 @@ Official repository of our CVPR 2025 paper ”Detection-Friendly Nonuniformity C
 
 <h4>
   <a href="https://ieeexplore.ieee.org/document/11092422">[PDF|IEEE]</a>
+  <a href="https://arxiv.org/pdf/2504.04012">[PDF|arXiv]</a>
   <a href="URL_HERE">[Supplementary Material]</a>
   <a href="#citation">[BibTex]</a>
 </h4>
