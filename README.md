@@ -121,6 +121,12 @@ year        =  {2023},
 }
 ```
 
+## Contact
+If you have any question, please contact: houzhangfang@xidian.edu.cn and wxl@stu.xidian.edu.cn,
 
+Copyright &copy; Xidian University.
+
+## License
+MIT License. This software is only freely available for non-commercial research use.
 
 
