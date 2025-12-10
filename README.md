@@ -2,6 +2,8 @@
   
 ## Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection 
 
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025**
+
 <h4>
   <a href="https://ieeexplore.ieee.org/document/11092422">[PDF|IEEE]</a>
   <a href="https://arxiv.org/pdf/2504.04012">[PDF|arXiv]</a>
