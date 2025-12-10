@@ -6,9 +6,11 @@ Official repository of our CVPR 2025 paper ”Detection-Friendly Nonuniformity C
 
 [[`PDF`](https://ieeexplore.ieee.org/document/11092422)] [[`Supplementary Material`](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Fang_Detection-Friendly_Nonuniformity_Correction_CVPR_2025_supplemental.pdf)] [[`BibTex`](#citation)]
 
-[![PDF](https://img.shields.io/badge/PDF-Paper-red)](https://ieeexplore.ieee.org/document/11092422)
-[![Supplementary Material](https://img.shields.io/badge/Supplementary-Material-blue)](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Fang_Detection-Friendly_Nonuniformity_Correction_CVPR_2025_supplemental.pdf)
-[![BibTex](https://img.shields.io/badge/BibTex-Citation-yellow)](#citation)
+<h3>
+  <a href="https://ieeexplore.ieee.org/document/11092422">[PDF]</a>
+  <a href="URL_HERE">[Supplementary Material]</a>
+  <a href="#citation">[BibTex]</a>
+</h3>
 
 Authors: Houzhang Fang<sup>1</sup>, Xiaolin Wang<sup>1</sup>, Zengyang Li<sup>1</sup>, Lu Wang<sup>1</sup>, Qingshan Li<sup>1</sup>, Yi Chang<sup>2</sup>, Luxin Yan<sup>2</sup>
   
