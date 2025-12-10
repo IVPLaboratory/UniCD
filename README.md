@@ -35,7 +35,7 @@ Our custom-built dataset (IRBFD) can be downloaded via the following link:
   
 If you find the IRBFD dataset useful for your research, please consider citing our paper  [[`BibTex`](#citation)]. Your acknowledgement is greatly appreciated!
 
-## NUC Software
+## Nonuniformity Correction (NUC) Software
 
 We have developed correction software that allows users to upload various non-uniform images for real-time processing. Our method does not require retraining and demonstrates excellent universal applicability across diverse scenarios.
 Our correction software currently only provides processing results based on the non-uniformity correction algorithm from the CVPR paper and can run on both Linux and Windows systems.
