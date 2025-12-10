@@ -72,6 +72,20 @@ If you find our work useful for your research, please consider citing our paper.
 
 In additoin to the above paper, please also consider citing the following references. Thank you!
 ```bibtex
+@inproceedings{2026AAAI_TDCNet,
+  title     = {Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection},
+  author    = {Houzhang Fang and Shukai Guo and Qiuhuan Chen and Yi Chang and Luxin Yan},
+  booktitle   = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2026},
+  pages     = { },
+}
+@inproceedings{2026AAAI_JFD3,
+  title     = {Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection},
+  author    = {Xiaolin Wang and Houzhang Fang and Qingshan Li and Lu Wang and Yi Chang and Luxin Yan},
+  booktitle   = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2026},
+  pages     = { },
+}
 @article{2024TGRS_SCINet,
   title     = {{SCINet}: Spatial and Contrast Interactive Super-Resolution Assisted Infrared {UAV} Target Detection},
   author    = {Houzhang Fang and Lan Ding and Xiaolin Wang and Yi Chang and Luxin Yan and Li Liu and Jinrui Fang},
