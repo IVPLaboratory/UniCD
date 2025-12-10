@@ -4,11 +4,11 @@ Official repository of our CVPR 2025 paper ”Detection-Friendly Nonuniformity C
   
 ## Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection 
 
-<h2>
+<h4>
   <a href="https://ieeexplore.ieee.org/document/11092422">[PDF]</a>
   <a href="URL_HERE">[Supplementary Material]</a>
   <a href="#citation">[BibTex]</a>
-</h2>
+</h4>
 
 Authors: Houzhang Fang<sup>1</sup>, Xiaolin Wang<sup>1</sup>, Zengyang Li<sup>1</sup>, Lu Wang<sup>1</sup>, Qingshan Li<sup>1</sup>, Yi Chang<sup>2</sup>, Luxin Yan<sup>2</sup>
   
