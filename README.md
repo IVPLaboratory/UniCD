@@ -9,8 +9,8 @@ Authors: Houzhang Fang<sup>1</sup>, Xiaolin Wang<sup>1</sup>, Zengyang Li<sup>1<
 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025**
 
 <h4>
-  <a href="https://ieeexplore.ieee.org/document/11092422">[PDF|IEEE]</a>
-  <a href="https://arxiv.org/pdf/2504.04012">[PDF|arXiv]</a>
+  <a href="https://ieeexplore.ieee.org/document/11092422">[Paper PDF|IEEE]</a>
+  <a href="https://arxiv.org/pdf/2504.04012">[Paper PDF|arXiv]</a>
   <a href="URL_HERE">[Supplementary Material]</a>
   <a href="#citation">[BibTex]</a>
 </h4>
