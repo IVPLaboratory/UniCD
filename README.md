@@ -45,9 +45,9 @@ Our correction software currently only provides processing results based on the 
 
 Usage steps:
 
-- **Step 1.** Click the “Select Images” button to load images (multiple images can be loaded). You can also select an entire image folder for batch processing.
-- **Step 2.** Choose the output folder where the processed results will be saved. If this step is skipped, the results will be saved by default in the folder where the images were selected in step 1.
-- **Step 3.** Click the “Process Images” button. The software will save both the corrected images and the estimated bias field images.
+- **Step 1.** Click the “Select Image Files” button to load images (multiple images can be loaded). You can also select an entire image folder for batch processing (by checking the box).
+- **Step 2.** Choose the output folder where the processed results will be saved. If unchecked, the results will not be saved.
+- **Step 3.** Click the “Execute Process” button. The software will show the corrected results, and save both the corrected images and the estimated bias field images (by checking the box).
 
  Download Software Here -[Baidu Netdisk](<https://pan.baidu.com/s/1klF54EyRUf1eAeA_vgtUaA?pwd=89bv>) (passcode: 89bv), [Google Drive](<https://drive.google.com/file/d/15jGFDuBbl9MSPH2AG9AlS0MPJyJEw0nz/view?usp=sharing>).
 
